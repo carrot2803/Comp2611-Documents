@@ -41,3 +41,7 @@ self explanatory
 ## Lab 9
 - **Link:** [Lab 9 Video](https://sta-uwi-edu.zoom.us/rec/share/nOn2Ep9z6kTVaKgbVeVfQDX1b2YdBNaNrAuOnwxhAo6PYTGbSO7bUNgsoxRFT5IV.jhxSeFGD-HKaIZUo)
 - **Passcode:** PCVB&e5V
+
+## Review Session
+- **Link:** [Review Video](https://sta-uwi-edu.zoom.us/rec/share/_8KIz4P3zvqN_TiRbvAYwbuWYlI3gVOPWaQN3eZIS9kmUqvy09zR8zs0Ufo7C4Jl.ek2U_zWvixkXNSk0)
+- **Passcode:** j*h6YEF@
