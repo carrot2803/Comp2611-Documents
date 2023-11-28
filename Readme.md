@@ -45,3 +45,10 @@ self explanatory
 ## Review Session
 - **Link:** [Review Video](https://sta-uwi-edu.zoom.us/rec/share/_8KIz4P3zvqN_TiRbvAYwbuWYlI3gVOPWaQN3eZIS9kmUqvy09zR8zs0Ufo7C4Jl.ek2U_zWvixkXNSk0)
 - **Passcode:** j*h6YEF@
+
+
+# Queries
+
+If you have any questions, issues, or suggestions regarding the questions, please don't hesitate to contact me on Discord at carrot2803 or join the support server at [https://discord.gg/TFEbHkCyT3].<br/>
+
+I am not advertising or promoting this Discord server nor limiting access to it; it's simply a means to assist you. If you have me on WhatsApp, you can also tag me in the group chat or send me a direct message.
